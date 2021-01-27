@@ -1,0 +1,6 @@
+__pycache__
+secrets.json
+run.sh
+static
+venv
+.vscode
